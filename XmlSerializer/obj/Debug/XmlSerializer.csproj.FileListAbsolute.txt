@@ -1,0 +1,5 @@
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializer\bin\Debug\XmlSerializer.dll
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializer\bin\Debug\XmlSerializer.pdb
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializer\obj\Debug\XmlSerializer.dll
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializer\obj\Debug\XmlSerializer.pdb
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializer\obj\Debug\XmlSerializer.csprojResolveAssemblyReference.cache

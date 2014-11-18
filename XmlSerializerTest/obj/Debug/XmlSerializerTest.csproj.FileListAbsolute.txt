@@ -1,0 +1,9 @@
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\XmlSerializerTest.exe
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\XmlSerializerTest.pdb
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\SharpSerializerLibrary.dll
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\SharpSerializerLibrary.pdb
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\obj\Debug\XmlSerializerTest.csprojResolveAssemblyReference.cache
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\obj\Debug\XmlSerializerTest.exe
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\obj\Debug\XmlSerializerTest.pdb
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\XmlSerializer.dll
+E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\XmlSerializer.pdb

@@ -1,0 +1,44 @@
+﻿<Complex name="Root" type="XmlSerializerTest.TestClass, XmlSerializerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+  <Properties>
+    <Simple name="ID" value="ea87e730-ad32-449a-b8c5-0b44d63a0a30" />
+    <Simple name="Name" value="睡觉了快递费" />
+    <Simple name="Number" value="123" />
+    <Collection name="Values">
+      <Properties>
+        <Simple name="Capacity" value="8" />
+      </Properties>
+      <Items>
+        <Simple value="1" />
+        <Simple value="2" />
+        <Simple value="3" />
+        <Simple value="4" />
+        <Simple value="5" />
+      </Items>
+    </Collection>
+    <Collection name="Values2">
+      <Properties>
+        <Simple name="Capacity" value="8" />
+      </Properties>
+      <Items>
+        <Simple value="1" />
+        <Simple value="2" />
+        <Simple value="3" />
+        <Simple value="4" />
+        <Simple value="5" />
+      </Items>
+    </Collection>
+    <Simple name="Values3" value="AQIDBAU=" />
+    <Dictionary name="Value4">
+      <Items>
+        <Item>
+          <Simple value="1" />
+          <Simple value="1" />
+        </Item>
+        <Item>
+          <Simple value="2" />
+          <Simple value="2" />
+        </Item>
+      </Items>
+    </Dictionary>
+  </Properties>
+</Complex>
