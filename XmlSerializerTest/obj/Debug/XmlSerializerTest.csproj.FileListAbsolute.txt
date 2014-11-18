@@ -7,3 +7,11 @@ E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\obj\Debug\XmlSeri
 E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\obj\Debug\XmlSerializerTest.pdb
 E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\XmlSerializer.dll
 E:\PL\MyProjects\SVN\XmlSerializer\trunk\src\XmlSerializerTest\bin\Debug\XmlSerializer.pdb
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\obj\Debug\XmlSerializerTest.exe
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\obj\Debug\XmlSerializerTest.pdb
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\obj\Debug\XmlSerializerTest.csprojResolveAssemblyReference.cache
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\bin\Debug\XmlSerializerTest.exe
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\bin\Debug\XmlSerializerTest.pdb
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\bin\Debug\SharpSerializer.dll
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\bin\Debug\SharpSerializer.pdb
+E:\PL\MyProjects\GitHub\XmlSerializer\XmlSerializerTest\bin\Debug\SharpSerializer.xml

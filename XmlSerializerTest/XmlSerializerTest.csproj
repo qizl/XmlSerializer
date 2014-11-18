@@ -45,13 +45,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SharpSerializerLibrary\SharpSerializerLibrary.csproj">
+    <ProjectReference Include="..\SharpSerializer\SharpSerializer.csproj">
       <Project>{88ab738f-7a36-4c93-b808-b6ce2d3444b2}</Project>
-      <Name>SharpSerializerLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\XmlSerializer\XmlSerializerLibrary.csproj">
-      <Project>{7307484d-7d35-49d6-9a15-0c5b4a9ec147}</Project>
-      <Name>XmlSerializerLibrary</Name>
+      <Name>SharpSerializer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
