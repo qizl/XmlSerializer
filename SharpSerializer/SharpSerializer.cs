@@ -38,6 +38,7 @@ using Com.EnjoyCodes.SharpSerializer.Core;
 using Com.EnjoyCodes.SharpSerializer.Deserializing;
 using Com.EnjoyCodes.SharpSerializer.Serializing;
 using System.Runtime.CompilerServices;
+using System.Text;
 
 namespace Com.EnjoyCodes.SharpSerializer
 {
@@ -296,6 +297,22 @@ namespace Com.EnjoyCodes.SharpSerializer
                 // corrupted Stream
                 throw new DeserializingException("An error occured during the deserialization. Details are in the inner exception.", exception);
             }
+        }
+
+        public string Serialize(object data)
+        {
+            MemoryStream stream = new MemoryStream();
+
+            this.Serialize(data, stream);
+
+            stream.Seek(0, SeekOrigin.Begin);
+            StreamReader reader = new StreamReader(stream);
+            string str = reader.ReadToEnd();
+
+            reader.Dispose();
+            reader.Close();
+
+            return str;
         }
 
         #endregion
